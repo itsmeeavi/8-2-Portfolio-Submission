@@ -1,8 +1,7 @@
 # 8-2-Portfolio-Submission
 
-CS 370 Pirate Intelligent Agent
-
 Project Overview
+
 In this project I worked on a pirate intelligent agent that find its way through a maze to reach the treasure using deep Q learning and neural networks
 
 The main goal of this project was to train the pirate to make better decisions by learning from its actions and rewards instead of just moving randomly around the maze
